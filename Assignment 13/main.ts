@@ -6,4 +6,9 @@ transportation, such as a motorcycle or a car, and make a list that
   Honda motorcycle.”   */
 
   //lets code!😉
-let code : string[] = []
+ let favBikes : string[] = ["Unique","Super Power", "Power Star","Yamaha","Honda"]
+
+for (let i = 0; i<favBikes.length; i++ ){
+// console.log(`I would like to own a ${favBikes[i]}`);
+console.log("I would like to own a "+ favBikes[i]);
+}
