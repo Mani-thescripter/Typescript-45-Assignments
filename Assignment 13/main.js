@@ -10,7 +10,4 @@ for (var i = 0; i < favBikes.length; i++) {
     // console.log(`I would like to own a ${favBikes[i]}`);
     console.log("I would like to own a" + favBikes[i]);
 }
-// let favBikes: string[] = ["Unique", "Super Power", "Power Star", "Yamaha", "Honda"];
-// for (let i = 0; i < favBikes.length; i++) {
-//     console.log("I would like to own a", favBikes[i]);
-// }
+
